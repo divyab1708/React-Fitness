@@ -1,0 +1,29 @@
+.container-fluid{
+  padding: 0;
+}
+
+.form-control{
+  height: 28px;
+  font-size: 12px;
+}
+
+body{
+  font-size: 12px;
+  font-family: 'Asap', sans-serif;
+}
+
+label{
+  color: #F25131;
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+.btn {
+    font-size: 12px;
+    padding: 2px 5px;
+}
+
+.btn-primary{
+ background: #F25131;
+  border-color: #F25131;
+}
