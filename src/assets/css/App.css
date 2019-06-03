@@ -27,3 +27,22 @@ label{
  background: #F25131;
   border-color: #F25131;
 }
+
+.noUi-horizontal {
+    height: 10px !important;
+}
+.noUi-horizontal .noUi-handle {
+    width: 18px !important;
+    height: 17px !important;
+/*    left: -17px !important;*/
+    top: -4px !important;
+}
+.noUi-handle:after, .noUi-handle:before{
+  display: none !important;
+}
+
+.noUi-handle{
+  box-shadow: none !important;
+    background: #F25131 !important;
+    border: 1px solid #F25131 !important;
+}
