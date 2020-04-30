@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "nouislider": "^13.1.5",
     "rangeslider.js": "^2.3.2",
     "react": "^16.8.6",
